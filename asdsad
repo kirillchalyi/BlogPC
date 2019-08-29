@@ -1,0 +1,72 @@
+ <div style="background: #f8f8f8 url(image/back3.png); height: 250px;margin-top: -10px; max-width: 100%;">
+     <div style="background: black url(image/logo.png); width: 130px; height: 110px; position: absolute; top: 30px; left: 70px;">  
+     </div>
+      <div class="logo" href="index.html">
+       <strong> Блог про компьютеры </strong>
+      </div>
+
+     
+
+     ПОИСК
+      <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Поиск" aria-label="Поиск">
+      <button class="btn btn-default knopka my-2 my-sm-0" type="submit">Поиск</button>
+    </form>
+
+
+
+    Sborki 
+    <div id="pc2">
+<div class="container">
+  <div class="row centered">
+       <div class="col-lg-4">
+      <img src="image/pc2.png" width="450px" alt="pc">
+      <p id="ee">"Средний" ПК</p><p id="eee">~700$</p>
+    </div>
+     <div class="col-lg-8 oloe">
+      <h1>В Эту сборку входит:</h1>
+  </div>
+</div>
+</div>
+</div>
+<div id="pc3">
+<div class="container-fluid">
+  <div class="row centered">
+    <div class="col-lg-12">
+      <img src="image/pc3.png" width="450px" alt="pc">
+      <p id="ee">"Слабый" ПК</p><p id="eee">~400$</p>
+      <a href="index.html"><button  class="btn btn-success" id="knopka3">Смотреть</button></a>
+    </div>
+  </div>
+</div>
+</div>
+
+
+#AlloyFPS h1 {
+	color: white;
+	font-weight: bold;
+	font-size: 55px;
+	position: absolute;
+	left: 700px;
+	top: 275px;
+
+}
+
+#AlloyFPS p {
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+	position: absolute;
+	top: 340px;
+	left: 702px;
+	
+}
+
+#AlloyFPS button {
+	position: absolute;
+	top: 380px;
+	left: 702px;
+	padding-right: 15px;
+	padding-left: 15px;
+
+}

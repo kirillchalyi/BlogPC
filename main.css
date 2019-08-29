@@ -1,0 +1,316 @@
+body {
+	background: #f8f8f8;
+}
+
+a {
+	text-decoration: none;
+
+}
+
+a:hover {
+	text-decoration: none;
+	font-size: =
+}
+.navbar-brand {
+	margin-left: 30px;
+
+}
+.logo {
+	color:white; 
+	font-size: 30px;
+	height: 65px; 
+	width: 430px;
+	position: absolute; 
+	top: 80px; 
+	left: 260px;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0px;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
+.navbar {
+	 background: #333;
+	 font-weight: 500;
+	 font-size: 14px;
+	 padding-top: 15px;
+	 padding-bottom: 15px;
+}
+
+.brand {
+	background: black url(image/logo.png); width: 130px; height: 110px; position: absolute; top: 30px; left: 70px;
+
+}
+
+#back222 {
+background: #f8f8f8  url(image/back3.png);
+	height: 250px;
+	margin-top: -10px; 
+	max-width: 100%;
+}
+
+.panel {
+	min-height: 50px;
+	font-size: 20px;
+	
+}
+
+#headerwrap {
+	background: url(image/backg.jpg) no-repeat center top;
+	margin-top: 0px;
+	padding-top: 20px;
+	text-align: center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 500px;
+	width: 100%; 
+	
+	background-size: 100%;
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#headerwrap h1 {
+	margin: 90px auto;
+	color: white;
+	font-size: 70px;
+	font-weight: 300;
+	letter-spacing: 3px;
+}
+
+.centered {
+	text-align: center;
+}
+
+.w {
+	padding-top: 35px;
+}
+
+.w h4 {
+	font-size: 25px;
+	text-align: center;
+}
+
+#pc {
+	background: #e0e0e0;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+#pc h4 {
+	font-size: 40px;
+}
+
+.tilt {
+	-moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+}
+
+.tilt:hover {
+	-webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
+}
+
+#ee
+{
+	font-size: 20px;
+	padding-top: 20px; 
+}
+
+#eee
+{
+	font-size: 20px;
+	color: green;
+	margin-top:-10px; 
+}
+
+#devices {
+	margin-top: -10px;
+	padding-top: 20px;
+	text-align: center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 600px;
+	width: 100%; 
+}
+
+#devices h2 {
+	font-size: 20px;
+	text-align: center;
+}
+
+#f {
+	background: #333;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+#f a {
+	color: #FFF;
+	font-size: 30px;
+	padding: 20px;
+}
+
+#f a:hover {
+	color: #bdbdbd;
+}
+
+
+#pc1 {
+		padding-top: 100px;
+	background: #e2e2e2;
+	min-width: 100%;
+	min-height: 800px;
+}
+
+#pc1 p {
+	font-size: 20px;
+	font-weight: 500;
+	
+}
+
+#pc1 h1 {
+	
+}
+
+#AlloyFPS {
+	background: url(image/devic.jpg);
+	max-width: 100%;
+	height: 805px;
+	padding-top: 80px;
+}
+
+#AlloyFPS h1 {
+	color: white;
+	font-weight: bold;
+	font-size: 55px;
+	margin-top: 300px;
+	text-align: right;
+}
+
+#AlloyFPS p {
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+	text-align: right;
+	margin-right: 128px;
+}
+
+#AlloyFPS button {
+	padding-right: 15px;
+	padding-left: 15px;
+	float: right;
+	margin-right: 325px;
+}
+
+
+#Rival600 {
+background: url(image/devic2.jpg);
+	max-width: 100%;
+	height: 805px;
+	padding-top: 80px;
+}
+
+#Rival600 h1 {
+	color: white;
+	font-weight: bold;
+	font-size: 55px;
+
+}
+
+#Rival600 p {
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+	
+}
+
+#Rival600 button {
+	padding-right: 15px;
+	padding-left: 15px;
+	
+}
+
+#Kraken {
+background: url(image/razer.jpg);
+	max-width: 100%;
+	height: 870px;
+	padding-top: 80px;
+
+}
+
+#Kraken h1 {
+	color: white;
+	font-weight: bold;
+	font-size: 55px;
+	text-align: left;
+	margin-top: 370px;
+}
+
+#Kraken p {
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+	text-align: left;
+}
+
+#Kraken button {
+	padding-right: 15px;
+	padding-left: 15px;
+	float: left
+}
+
+#alloy {
+	padding-top: 120px;
+	height: 800px;
+}
+
+#alloy img {
+	max-width: 100%;
+	height: 800px;
+	position: relative;
+	top: -40px;
+}
+
+#alloy h1 {
+	padding-top: 30px;
+	color: #FFF; 
+	font-size: 35px;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 1200px;
+}
+
+#klava {
+	text-align: center;
+}
+
+#klava p {
+	padding-top: 20px;
+	color: #696969;
+	text-align: left;
+}
+
+
+div#a {
+
+}
+
+
+.img-responsive {
+	max-width: 100%;
+	min-width: 50%;
+	float: center
+}

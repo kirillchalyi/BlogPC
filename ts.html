@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+		
+	 <meta charset="utf-8" />
+	<title>TS JS</title>
+</head>
+<body>
+<h1>TypeScript HTML App</h1>
+ 
+    <button onclick=" alert(greeter.greet())">Kek</button>
+    	<script type="text/javascript">var Greeter = (function () {
+    function Greeter() {
+    }
+    Greeter.prototype.custructor = function (message) {
+        this.greeting = message;
+    };
+    Greeter.prototype.greet = function () {
+        return "Hello, " + this.greeting;
+    };
+    return Greeter;
+}());
+var greeter = new Greeter("world");
+var button = document.createElement('button');
+button.textContent = "Say Hello";
+button.onclick = function () {
+    alert(greeter.greet());
+};
+document.Body.append.Child(button);
+</script>
+</body>
+</html>
